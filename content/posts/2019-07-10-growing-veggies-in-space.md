@@ -10,7 +10,7 @@ cyberseo_rss_source:
   - https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss
 cyberseo_post_link:
   - http://www.nasa.gov/image-feature/growing-veggies-in-space
-image: https://vigilant-heisenberg-4f1978.netlify.com/wp-content/uploads/2019/10/astronaut-nick-hague-soaks-up-views-of-earth.jpg
+image: /images/uploads/alexandr-podvalny-220262-unsplash.jpg
 categories:
   - Uncategorized
 ---
